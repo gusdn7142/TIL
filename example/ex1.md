@@ -13,7 +13,13 @@ TIL을 잘 작성해야 합니다.
 
 ## TIL 작성법
 * 예시입니다.
-* 예시입니다.
+* 예시입니다.  
+
+
+<p align="center">
+  <img src="https://github.com/gusdn7142/TIL/blob/main/example/img/1.png?raw=true">
+</p>
+
 
 <br>
 
